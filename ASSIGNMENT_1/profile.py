@@ -1,0 +1,10 @@
+print("********************")
+print("STUDENT PROFILE")
+print("********************")
+
+print("WELCOME TO PYTHON")
+print("Name: John Doe")
+print("School: ABC University")
+print("Department: Computer Science")
+print("Favorite Food: Rice")
+print("Favorite Programming Language: Python")
